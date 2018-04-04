@@ -1,0 +1,2 @@
+# myRepoitory
+a study github
